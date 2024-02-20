@@ -1,1 +1,1 @@
-conflict example
+conflict branch example1
